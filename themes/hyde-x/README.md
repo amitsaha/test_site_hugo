@@ -1,8 +1,6 @@
 Hyde-X
 ======
 
-**Amit Saha**: This is a slighly changed version of hyde-x to work around: https://github.com/spf13/hugo/issues/2147
-
 Enhanced port of the Jekyll "[Hyde](https://github.com/poole/hyde)" theme to the [Hugo](http://gohugo.io) site generator. Check below for a list of enhancements.
 
 You can find a live site using this theme [here](http://andreimihu.com) and the corresponding source code [here](https://github.com/zyro/andreimihu.com).
