@@ -1,4 +1,5 @@
-baseurl = "http://echorand.me/linux_voice_4/"
+#baseurl = "http://echorand.me/linux_voice_4/"
+baseurl = "http://echorand.me/test_site_hugo/"
 languageCode = "en-us"
 title = "Today I Learned"
 theme = "hyde-x"
