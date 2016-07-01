@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://echorand.me/linux_voice_4/</loc>
+    <loc>http://echorand.me/test_site_hugo/</loc>
     <lastmod>2016-05-14T11:32:10+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://echorand.me/linux_voice_4/post/demo-of-shortcodes/</loc>
+    <loc>http://echorand.me/test_site_hugo/post/demo-of-shortcodes/</loc>
     <lastmod>2016-05-14T11:32:10+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://echorand.me/linux_voice_4/post/syntax-highlighting-code/</loc>
+    <loc>http://echorand.me/test_site_hugo/post/syntax-highlighting-code/</loc>
     <lastmod>2016-05-13T17:02:38+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://echorand.me/linux_voice_4/page/about/</loc>
+    <loc>http://echorand.me/test_site_hugo/page/about/</loc>
     <lastmod>2016-05-13T07:58:08+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://echorand.me/linux_voice_4/post/hugo-live-reload/</loc>
+    <loc>http://echorand.me/test_site_hugo/post/hugo-live-reload/</loc>
     <lastmod>2016-05-12T09:20:03+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://echorand.me/linux_voice_4/post/hello-world/</loc>
+    <loc>http://echorand.me/test_site_hugo/post/hello-world/</loc>
     <lastmod>2016-05-12T08:05:42+10:00</lastmod>
   </url>
   
